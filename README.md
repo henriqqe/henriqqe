@@ -1,5 +1,5 @@
 - 👋 Sou o Pedro Henrique.
-- 🌱 Estou atualmente aprendendo Java no Instituto J&F.
+- 🌱 Estou atualmente aprendendo Java e SQL no Instituto J&F.
 - ♥️ Sempre quero mais!
 
 <!---
